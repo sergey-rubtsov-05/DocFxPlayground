@@ -9,10 +9,10 @@
       "output": {
         ".html": {
           "relative_path": "api/MyService.API.IService.html",
-          "hash": "4O4GzpRiueXZkiI936t/vg=="
+          "hash": "ji+zHtq8s9sljKdfErv8tw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -21,10 +21,10 @@
       "output": {
         ".html": {
           "relative_path": "api/MyService.API.html",
-          "hash": "QCYXTiYMHr4q1EpJ4fNrlw=="
+          "hash": "8Yvl8HyJ3Pky49jSyMGfqw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -60,7 +60,7 @@
           "hash": "4MaUbeC1my7NOHUyzjVGjw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -113,12 +113,12 @@
           "can_incremental": true,
           "incrementalPhase": "build",
           "total_file_count": 3,
-          "skipped_file_count": 2
+          "skipped_file_count": 3
         },
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 2,
+          "total_file_count": 3,
           "skipped_file_count": 2
         },
         "TocDocumentProcessor": {

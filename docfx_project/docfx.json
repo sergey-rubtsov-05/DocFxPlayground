@@ -40,8 +40,9 @@
     ],
     "overwrite": [
       {
+        "cwd": "../",
         "files": [
-          "apidoc/**.md"
+          "apiSpec/**.md"
         ],
         "exclude": [
           "obj/**",
