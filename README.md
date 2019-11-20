@@ -1,0 +1,3 @@
+# DocFxPlayground
+
+My readme file
