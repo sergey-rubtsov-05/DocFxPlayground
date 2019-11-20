@@ -9,7 +9,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MyService.API.IService.html",
-          "hash": "ji+zHtq8s9sljKdfErv8tw=="
+          "hash": "/xRLcwwKm65eZcrzC/J7AQ=="
         }
       },
       "is_incremental": false,
@@ -21,7 +21,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MyService.API.html",
-          "hash": "8Yvl8HyJ3Pky49jSyMGfqw=="
+          "hash": "L4YWcVkCSvL/sj7/btGsXw=="
         }
       },
       "is_incremental": false,
@@ -109,11 +109,12 @@
         "skipped_file_count": 0
       },
       "processors": {
-        "ConceptualDocumentProcessor": {
-          "can_incremental": true,
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build",
-          "total_file_count": 3,
-          "skipped_file_count": 3
+          "total_file_count": 0,
+          "skipped_file_count": 0
         },
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": true,
@@ -121,12 +122,11 @@
           "total_file_count": 3,
           "skipped_file_count": 2
         },
-        "TocDocumentProcessor": {
-          "can_incremental": false,
-          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 0,
-          "skipped_file_count": 0
+          "total_file_count": 3,
+          "skipped_file_count": 3
         }
       }
     },
