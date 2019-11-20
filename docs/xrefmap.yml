@@ -1,0 +1,28 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: MyService.API
+  name: MyService.API
+  href: api/MyService.API.html
+  commentId: N:MyService.API
+  fullName: MyService.API
+  nameWithType: MyService.API
+- uid: MyService.API.IService
+  name: IService
+  href: api/MyService.API.IService.html
+  commentId: T:MyService.API.IService
+  fullName: MyService.API.IService
+  nameWithType: IService
+- uid: MyService.API.IService.GetAnswer
+  name: GetAnswer()
+  href: api/MyService.API.IService.html#MyService_API_IService_GetAnswer
+  commentId: M:MyService.API.IService.GetAnswer
+  fullName: MyService.API.IService.GetAnswer()
+  nameWithType: IService.GetAnswer()
+- uid: MyService.API.IService.GetAnswer*
+  name: GetAnswer
+  href: api/MyService.API.IService.html#MyService_API_IService_GetAnswer_
+  commentId: Overload:MyService.API.IService.GetAnswer
+  isSpec: "True"
+  fullName: MyService.API.IService.GetAnswer
+  nameWithType: IService.GetAnswer
