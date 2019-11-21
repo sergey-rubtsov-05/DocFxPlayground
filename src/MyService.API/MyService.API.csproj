@@ -41,8 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IOldService.cs" />
     <Compile Include="IService.cs" />
+    <Compile Include="PredefinedTimeFrame.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TimeFrame.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

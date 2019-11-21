@@ -5,11 +5,12 @@
         {
           "cwd": "../",
           "files": [
-            "src/MyService.API/**.csproj"
+            "src/**.csproj"
           ]
         }
       ],
       "dest": "api",
+      "filter": "filterConfig.yml",
       "disableGitFeatures": false,
       "disableDefaultFilter": false
     }
